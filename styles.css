@@ -1,0 +1,18 @@
+img {
+    height: 200px;
+}
+
+.menu {
+    display: flex;
+    justify-content: space-between;
+}
+
+.about-me {
+    border: 10px solid gold;
+}
+
+.posts { border: 5px double green; }
+
+.blue {
+    background-color: lightblue;
+}
